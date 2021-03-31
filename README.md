@@ -46,7 +46,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/JamesTipton2/JamesTipton2">
-    <img src="Images/Headshot.png" alt="Logo" width="60" height="100">
+    <img src="Images/Headshot.png" alt="Logo" width="80" height="120">
   </a>
 I am a Microsoft Software & Systems Academy student currently attending the Cloud Application Development course at Camp Lejeune, NC.
 I am excited to share, learn and collaborate with smart individuals.
