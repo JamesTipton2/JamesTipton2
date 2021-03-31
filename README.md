@@ -39,115 +39,25 @@
     <a href="https://github.com/JamesTipton2/JamesTipton2"><strong>MyRepository</strong></a>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-hanes-tipton">About James Tipton</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About James Tipton
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`JamesTipton2`, `JamesTipton2`, `James Tipton`, `About My Repository`, `Explaining about my repository.`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/JamesTipton2/JamesTipton2.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/JamesTipton2/JamesTipton2.issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- LICENSE 
-## License 
-Add something awesome here later!-->
-
+<!-- Headshot -->
+<br />
+<p align="center">
+  <a href="https://github.com/JamesTipton2/JamesTipton2">
+    <img src="Images/Headshot.png" alt="Logo" width="80" height="80">
+  </a>
+I am a Microsoft Software & Systems Academy student currently attending the Cloud Application Development course at Camp Lejeune, NC.
+I am excited to share, learn and collaborate with smart individuals.
+Please feel free to reach out to me on LinkedIn or via e-mail.
 
 
 <!-- CONTACT -->
 ## Contact
+
+<p>Email Address: <a href="james.m.tipton.2@outlook.com">James T.</a></p>
 
 Project Link: [https://github.com/JamesTipton2/JamesTipton2](https://github.com/JamesTipton2/JamesTipton2)
 
