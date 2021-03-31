@@ -31,20 +31,12 @@
     <img src="images/smiley.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">James Tipton Repository</h3>
 
   <p align="center">
-    project_description
+    My Respository
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
+    <a href="https://github.com/JamesTipton2/JamesTipton2"><strong>MyRepository</strong></a>
 </p>
 
 
@@ -54,7 +46,7 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-hanes-tipton">About James Tipton</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -133,7 +125,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/JamesTipton2/repo_name/JamesTipton2) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/JamesTipton2/JamesTipton2.issues) for a list of proposed features (and known issues).
 
 
 
