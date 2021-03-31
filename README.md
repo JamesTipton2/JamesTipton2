@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/JamesTipton2/JamesTipton2">
-    <img src="images/smiley.png" alt="Logo" width="80" height="80">
+    <img src="Images/smiley.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">James Tipton Repository</h3>
