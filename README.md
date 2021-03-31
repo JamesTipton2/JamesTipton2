@@ -42,17 +42,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About James Tipton
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 <!-- Headshot -->
 <br />
 <p align="center">
   <a href="https://github.com/JamesTipton2/JamesTipton2">
-    <img src="Images/Headshot.png" alt="Logo" width="80" height="80">
+    <img src="Images/Headshot.png" alt="Logo" width="100" height="60">
   </a>
 I am a Microsoft Software & Systems Academy student currently attending the Cloud Application Development course at Camp Lejeune, NC.
 I am excited to share, learn and collaborate with smart individuals.
 Please feel free to reach out to me on LinkedIn or via e-mail.
-
 
 <!-- CONTACT -->
 ## Contact
@@ -60,17 +58,6 @@ Please feel free to reach out to me on LinkedIn or via e-mail.
 <p>Email Address: <a href="james.m.tipton.2@outlook.com">James T.</a></p>
 
 Project Link: [https://github.com/JamesTipton2/JamesTipton2](https://github.com/JamesTipton2/JamesTipton2)
-
-
-<!-- ACKNOWLEDGEMENTS 
-## Acknowledgements
-
-* []()
-* []()
-* []() -->
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
