@@ -49,9 +49,9 @@
     <img src="Images/Headshot.png" alt="Logo" width="90" height="120">
   </a>
 <meta>
-I am a Microsoft Software & Systems Academy student currently attending the Cloud Application Development course at Camp Lejeune, NC.
-I am excited to share, learn and collaborate with smart individuals.
-Please feel free to reach out to me on LinkedIn or via e-mail.
+<p>I am a Microsoft Software & Systems Academy student currently attending the Cloud Application Development course at Camp Lejeune, NC.<p/>
+<p>I am excited to share, learn and collaborate with smart individuals.<p/>
+<p>Please feel free to reach out to me on LinkedIn or via e-mail.<p/>
 <meta/>
 <!-- CONTACT -->
 ## Contact
