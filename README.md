@@ -56,7 +56,7 @@
 <!-- CONTACT -->
 ## Contact
 
-<p>Email Address: <a href="james.m.tipton.2@outlook.com">James T.</a></p>
+Email Address: <a href="mailto:james.m.tipton.2@outlook.com" rel="EMAIL">James T.</a>
 
 Project Link: [https://github.com/JamesTipton2/JamesTipton2](https://github.com/JamesTipton2/JamesTipton2)
 
